@@ -4,7 +4,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://sudraj2002.github.io/gendegpage/) [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2411.17687) [![GenDS Dataset](https://img.shields.io/badge/HuggingFace-Data-orange?logo=huggingface)](https://huggingface.co/datasets/Sudarshan2002/GenDS)
 
 ## GenDS Dataset
-To download the GenDS dataset please refer to the [dataset page](https://huggingface.co/datasets/Sudarshan2002/GenDS)).
+To download the GenDS dataset please refer to the [dataset page](https://huggingface.co/datasets/Sudarshan2002/GenDS).
 
 ### TODO
 - [x] GenDS dataset
