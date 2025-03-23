@@ -8,9 +8,9 @@ To download the GenDS dataset please refer to the [dataset page](https://hugging
 
 ### TODO
 - [x] GenDS dataset
-- [] GenDeg inference
-- [] GenDeg training
-- [] Restoration inference
-- [] Restoration training
-- [] Pre-trained models
+- [ ] GenDeg inference
+- [ ] GenDeg training
+- [ ] Restoration inference
+- [ ] Restoration training
+- [ ] Pre-trained models
 
