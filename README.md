@@ -14,3 +14,15 @@ To download the GenDS dataset please refer to the [dataset page](https://hugging
 - [ ] Restoration training
 - [ ] Pre-trained models
 
+## Citation
+
+If you found our work useful, please consider citing:
+
+```bibtex
+@article{rajagopalan2024gendeg,
+  title={GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration},
+  author={Rajagopalan, Sudarshan and Nair, Nithin Gopalakrishnan and Paranjape, Jay N and Patel, Vishal M},
+  journal={arXiv preprint arXiv:2411.17687},
+  year={2024}
+}
+```
