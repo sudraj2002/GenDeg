@@ -39,9 +39,9 @@ checkpoints/
 
 ---
 
-## 🧪 Inference
+## Inference
 
-### 🔄 GenDS Dataset Generation
+### GenDS Dataset Generation
 
 Generate degraded images for a particular degradation:
 
@@ -69,7 +69,7 @@ You can generate images using your own data as well by creating `seeds.json` and
 
 ---
 
-### 🖼️ Single Image Inference
+### Single Image Inference
 
 Run generation on a single image:
 
@@ -86,7 +86,7 @@ Other arguments (e.g., `--cfg-text`, `--resolution`) are shared with `run_parall
 
 ---
 
-## 🏋️ Training
+## Training
 
 To train GenDeg on your own data:
 
@@ -98,13 +98,13 @@ Make sure the paths in `train_csv.json` and `seeds.json` are properly set.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This codebase is built upon [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix). We thank the authors for making their work publicly available.
 
 ---
 
-## 📎 Citation
+## Citation
 
 If you find this project useful, please cite:
 
