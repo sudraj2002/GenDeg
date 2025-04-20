@@ -84,13 +84,13 @@ Other arguments (e.g., `--cfg-text`, `--resolution`) are shared with `run_parall
 
 ## Training
 
-To train GenDeg on your own data:
+To train GenDeg:
 
 ```bash
 bash train.sh --replace_dir <path_to_GenIRData>
 ```
 
-Make sure the paths in `train_csv.json` and `seeds.json` are properly set.
+You can also train GenDeg on your own data by making the appropriate paths in `train_csv.json` and `seeds.json`.
 
 ---
 
