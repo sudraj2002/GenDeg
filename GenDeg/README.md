@@ -4,7 +4,7 @@ GenDeg is a controllable diffusion model for generating realistic degraded image
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -25,7 +25,7 @@ python setup.py develop --no_cuda_ext
 
 ---
 
-## 📁 Data & Model Download
+## Data & Model Download
 
 - Download the base restoration dataset (`GenIRData/`) from **[this link](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/sambasa2_jh_edu/ERKv9aDcj4BErJ8brU2oDn4BmIIiokwWitpHmBuiPtCfYQ?e=jiJZZg)** and note the absolute path to where you place the dataset.
 - The file `data/seeds.json` contains image paths required for training and dataset generation.
