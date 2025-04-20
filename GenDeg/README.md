@@ -1,6 +1,6 @@
 # GenDeg
 
-GenDeg is a controllable diffusion model for generating realistic degraded images. This code can be used for generating large-scale synthetic degradation datasets like [GenDS](https://github.com/ViLab-Visual-Computing/GenDS).
+GenDeg is a controllable diffusion model for generating realistic degraded images. This code can be used for generating large-scale synthetic degradation datasets like [GenDS]().
 
 ---
 
