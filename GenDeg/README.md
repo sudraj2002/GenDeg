@@ -105,10 +105,5 @@ This codebase is built upon [InstructPix2Pix](https://github.com/timothybrooks/i
 If you find this project useful, please cite:
 
 ```bibtex
-@misc{gendeg2025,
-  author = {Your Name et al.},
-  title = {GenDeg: Generative Degradation for Realistic Image Restoration},
-  year = {2025},
-  howpublished = {\url{https://github.com/your-repo/GenDeg}}
-}
+
 ```
