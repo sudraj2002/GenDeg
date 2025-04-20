@@ -90,7 +90,7 @@ To train GenDeg:
 bash train.sh --replace_dir <path_to_GenIRData>
 ```
 
-You can also train GenDeg on your own data by making the appropriate paths in `train_csv.json` and `seeds.json`.
+You can also train GenDeg on your own data by making the appropriate changes in `train_csv.json` and `seeds.json`.
 
 ---
 
