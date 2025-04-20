@@ -1,0 +1,1 @@
+python main.py --name default --base configs/train.yaml --train --gpus 0,1 --replace_dir <>
