@@ -96,7 +96,7 @@ Make sure the paths in `train_csv.json` and `seeds.json` are properly set.
 
 ## Acknowledgments
 
-This codebase is built upon [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix). We thank the authors for making their work publicly available.
+This codebase is built upon [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix). We thank the authors for sharing their code!
 
 ---
 
