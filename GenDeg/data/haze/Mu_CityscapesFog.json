@@ -1,0 +1,770 @@
+[
+    {
+        "Mu min": 0.0,
+        "Mu max": 0.00546875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.00546875,
+        "Mu max": 0.0109375,
+        "Count": 1,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.0109375,
+        "Mu max": 0.016406249999999997,
+        "Count": 5,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.016406249999999997,
+        "Mu max": 0.021875,
+        "Count": 11,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.021875,
+        "Mu max": 0.02734375,
+        "Count": 16,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.02734375,
+        "Mu max": 0.032812499999999994,
+        "Count": 24,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.032812499999999994,
+        "Mu max": 0.038281249999999996,
+        "Count": 35,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.038281249999999996,
+        "Mu max": 0.04375,
+        "Count": 50,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.04375,
+        "Mu max": 0.04921875,
+        "Count": 50,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.04921875,
+        "Mu max": 0.0546875,
+        "Count": 92,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.0546875,
+        "Mu max": 0.060156249999999994,
+        "Count": 140,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.060156249999999994,
+        "Mu max": 0.06562499999999999,
+        "Count": 190,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.06562499999999999,
+        "Mu max": 0.07109375,
+        "Count": 266,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.07109375,
+        "Mu max": 0.07656249999999999,
+        "Count": 338,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.07656249999999999,
+        "Mu max": 0.08203125,
+        "Count": 369,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.08203125,
+        "Mu max": 0.0875,
+        "Count": 378,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.0875,
+        "Mu max": 0.09296874999999999,
+        "Count": 350,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.09296874999999999,
+        "Mu max": 0.0984375,
+        "Count": 292,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.0984375,
+        "Mu max": 0.10390624999999999,
+        "Count": 246,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.10390624999999999,
+        "Mu max": 0.109375,
+        "Count": 246,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.109375,
+        "Mu max": 0.11484375,
+        "Count": 207,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.11484375,
+        "Mu max": 0.12031249999999999,
+        "Count": 223,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.12031249999999999,
+        "Mu max": 0.12578124999999998,
+        "Count": 225,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.12578124999999998,
+        "Mu max": 0.13124999999999998,
+        "Count": 251,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.13124999999999998,
+        "Mu max": 0.13671875,
+        "Count": 232,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.13671875,
+        "Mu max": 0.1421875,
+        "Count": 271,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.1421875,
+        "Mu max": 0.14765625,
+        "Count": 241,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.14765625,
+        "Mu max": 0.15312499999999998,
+        "Count": 263,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.15312499999999998,
+        "Mu max": 0.15859374999999998,
+        "Count": 223,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.15859374999999998,
+        "Mu max": 0.1640625,
+        "Count": 204,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.1640625,
+        "Mu max": 0.16953125,
+        "Count": 216,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.16953125,
+        "Mu max": 0.175,
+        "Count": 162,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.175,
+        "Mu max": 0.18046874999999998,
+        "Count": 169,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.18046874999999998,
+        "Mu max": 0.18593749999999998,
+        "Count": 152,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.18593749999999998,
+        "Mu max": 0.19140625,
+        "Count": 149,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.19140625,
+        "Mu max": 0.196875,
+        "Count": 125,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.196875,
+        "Mu max": 0.20234375,
+        "Count": 146,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.20234375,
+        "Mu max": 0.20781249999999998,
+        "Count": 135,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.20781249999999998,
+        "Mu max": 0.21328124999999998,
+        "Count": 157,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.21328124999999998,
+        "Mu max": 0.21875,
+        "Count": 159,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.21875,
+        "Mu max": 0.22421875,
+        "Count": 151,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.22421875,
+        "Mu max": 0.2296875,
+        "Count": 196,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.2296875,
+        "Mu max": 0.23515624999999998,
+        "Count": 178,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.23515624999999998,
+        "Mu max": 0.24062499999999998,
+        "Count": 164,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.24062499999999998,
+        "Mu max": 0.24609374999999997,
+        "Count": 165,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.24609374999999997,
+        "Mu max": 0.25156249999999997,
+        "Count": 183,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.25156249999999997,
+        "Mu max": 0.25703125,
+        "Count": 111,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.25703125,
+        "Mu max": 0.26249999999999996,
+        "Count": 133,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.26249999999999996,
+        "Mu max": 0.26796875,
+        "Count": 117,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.26796875,
+        "Mu max": 0.2734375,
+        "Count": 122,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.2734375,
+        "Mu max": 0.27890624999999997,
+        "Count": 86,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.27890624999999997,
+        "Mu max": 0.284375,
+        "Count": 24,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.284375,
+        "Mu max": 0.28984374999999996,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.28984374999999996,
+        "Mu max": 0.2953125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.2953125,
+        "Mu max": 0.30078125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.30078125,
+        "Mu max": 0.30624999999999997,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.30624999999999997,
+        "Mu max": 0.31171875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.31171875,
+        "Mu max": 0.31718749999999996,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.31718749999999996,
+        "Mu max": 0.32265625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.32265625,
+        "Mu max": 0.328125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.328125,
+        "Mu max": 0.33359374999999997,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.33359374999999997,
+        "Mu max": 0.3390625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.3390625,
+        "Mu max": 0.34453124999999996,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.34453124999999996,
+        "Mu max": 0.35,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.35,
+        "Mu max": 0.35546875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.35546875,
+        "Mu max": 0.36093749999999997,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.36093749999999997,
+        "Mu max": 0.36640625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.36640625,
+        "Mu max": 0.37187499999999996,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.37187499999999996,
+        "Mu max": 0.37734375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.37734375,
+        "Mu max": 0.3828125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.3828125,
+        "Mu max": 0.38828124999999997,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.38828124999999997,
+        "Mu max": 0.39375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.39375,
+        "Mu max": 0.39921874999999996,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.39921874999999996,
+        "Mu max": 0.4046875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.4046875,
+        "Mu max": 0.41015625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.41015625,
+        "Mu max": 0.41562499999999997,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.41562499999999997,
+        "Mu max": 0.42109375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.42109375,
+        "Mu max": 0.42656249999999996,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.42656249999999996,
+        "Mu max": 0.43203125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.43203125,
+        "Mu max": 0.4375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.4375,
+        "Mu max": 0.44296874999999997,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.44296874999999997,
+        "Mu max": 0.4484375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.4484375,
+        "Mu max": 0.45390624999999996,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.45390624999999996,
+        "Mu max": 0.459375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.459375,
+        "Mu max": 0.46484374999999994,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.46484374999999994,
+        "Mu max": 0.47031249999999997,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.47031249999999997,
+        "Mu max": 0.47578125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.47578125,
+        "Mu max": 0.48124999999999996,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.48124999999999996,
+        "Mu max": 0.48671875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.48671875,
+        "Mu max": 0.49218749999999994,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.49218749999999994,
+        "Mu max": 0.49765624999999997,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.49765624999999997,
+        "Mu max": 0.5031249999999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5031249999999999,
+        "Mu max": 0.50859375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.50859375,
+        "Mu max": 0.5140625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5140625,
+        "Mu max": 0.51953125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.51953125,
+        "Mu max": 0.5249999999999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5249999999999999,
+        "Mu max": 0.5304687499999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5304687499999999,
+        "Mu max": 0.5359375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5359375,
+        "Mu max": 0.54140625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.54140625,
+        "Mu max": 0.546875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.546875,
+        "Mu max": 0.5523437499999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5523437499999999,
+        "Mu max": 0.5578124999999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5578124999999999,
+        "Mu max": 0.56328125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.56328125,
+        "Mu max": 0.56875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.56875,
+        "Mu max": 0.57421875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.57421875,
+        "Mu max": 0.5796874999999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5796874999999999,
+        "Mu max": 0.5851562499999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.5851562499999999,
+        "Mu max": 0.590625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.590625,
+        "Mu max": 0.59609375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.59609375,
+        "Mu max": 0.6015625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6015625,
+        "Mu max": 0.6070312499999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6070312499999999,
+        "Mu max": 0.6124999999999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6124999999999999,
+        "Mu max": 0.61796875,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.61796875,
+        "Mu max": 0.6234375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6234375,
+        "Mu max": 0.62890625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.62890625,
+        "Mu max": 0.6343749999999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6343749999999999,
+        "Mu max": 0.6398437499999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6398437499999999,
+        "Mu max": 0.6453125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6453125,
+        "Mu max": 0.65078125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.65078125,
+        "Mu max": 0.65625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.65625,
+        "Mu max": 0.6617187499999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6617187499999999,
+        "Mu max": 0.6671874999999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6671874999999999,
+        "Mu max": 0.67265625,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.67265625,
+        "Mu max": 0.678125,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.678125,
+        "Mu max": 0.68359375,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.68359375,
+        "Mu max": 0.6890624999999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6890624999999999,
+        "Mu max": 0.6945312499999999,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    },
+    {
+        "Mu min": 0.6945312499999999,
+        "Mu max": 0.7,
+        "Count": 0,
+        "Dataset": "CityscapesFog"
+    }
+]

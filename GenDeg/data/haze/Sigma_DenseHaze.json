@@ -1,0 +1,770 @@
+[
+    {
+        "Sigma min": 0.0,
+        "Sigma max": 0.003125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.003125,
+        "Sigma max": 0.00625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.00625,
+        "Sigma max": 0.009375000000000001,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.009375000000000001,
+        "Sigma max": 0.0125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.0125,
+        "Sigma max": 0.015625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.015625,
+        "Sigma max": 0.018750000000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.018750000000000003,
+        "Sigma max": 0.021875000000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.021875000000000002,
+        "Sigma max": 0.025,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.025,
+        "Sigma max": 0.028125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.028125,
+        "Sigma max": 0.03125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.03125,
+        "Sigma max": 0.034375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.034375,
+        "Sigma max": 0.037500000000000006,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.037500000000000006,
+        "Sigma max": 0.040625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.040625,
+        "Sigma max": 0.043750000000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.043750000000000004,
+        "Sigma max": 0.046875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.046875,
+        "Sigma max": 0.05,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.05,
+        "Sigma max": 0.053125000000000006,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.053125000000000006,
+        "Sigma max": 0.05625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.05625,
+        "Sigma max": 0.059375000000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.059375000000000004,
+        "Sigma max": 0.0625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.0625,
+        "Sigma max": 0.065625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.065625,
+        "Sigma max": 0.06875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.06875,
+        "Sigma max": 0.07187500000000001,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.07187500000000001,
+        "Sigma max": 0.07500000000000001,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.07500000000000001,
+        "Sigma max": 0.078125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.078125,
+        "Sigma max": 0.08125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.08125,
+        "Sigma max": 0.084375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.084375,
+        "Sigma max": 0.08750000000000001,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.08750000000000001,
+        "Sigma max": 0.09062500000000001,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.09062500000000001,
+        "Sigma max": 0.09375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.09375,
+        "Sigma max": 0.096875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.096875,
+        "Sigma max": 0.1,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.1,
+        "Sigma max": 0.10312500000000001,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.10312500000000001,
+        "Sigma max": 0.10625000000000001,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.10625000000000001,
+        "Sigma max": 0.109375,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.109375,
+        "Sigma max": 0.1125,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.1125,
+        "Sigma max": 0.115625,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.115625,
+        "Sigma max": 0.11875000000000001,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.11875000000000001,
+        "Sigma max": 0.12187500000000001,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.12187500000000001,
+        "Sigma max": 0.125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.125,
+        "Sigma max": 0.12812500000000002,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.12812500000000002,
+        "Sigma max": 0.13125,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.13125,
+        "Sigma max": 0.134375,
+        "Count": 2,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.134375,
+        "Sigma max": 0.1375,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.1375,
+        "Sigma max": 0.140625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.140625,
+        "Sigma max": 0.14375000000000002,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.14375000000000002,
+        "Sigma max": 0.146875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.146875,
+        "Sigma max": 0.15000000000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.15000000000000002,
+        "Sigma max": 0.153125,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.153125,
+        "Sigma max": 0.15625,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.15625,
+        "Sigma max": 0.15937500000000002,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.15937500000000002,
+        "Sigma max": 0.1625,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.1625,
+        "Sigma max": 0.16562500000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.16562500000000002,
+        "Sigma max": 0.16875,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.16875,
+        "Sigma max": 0.171875,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.171875,
+        "Sigma max": 0.17500000000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.17500000000000002,
+        "Sigma max": 0.178125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.178125,
+        "Sigma max": 0.18125000000000002,
+        "Count": 2,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.18125000000000002,
+        "Sigma max": 0.184375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.184375,
+        "Sigma max": 0.1875,
+        "Count": 2,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.1875,
+        "Sigma max": 0.19062500000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.19062500000000002,
+        "Sigma max": 0.19375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.19375,
+        "Sigma max": 0.19687500000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.19687500000000002,
+        "Sigma max": 0.2,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.2,
+        "Sigma max": 0.203125,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.203125,
+        "Sigma max": 0.20625000000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.20625000000000002,
+        "Sigma max": 0.209375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.209375,
+        "Sigma max": 0.21250000000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.21250000000000002,
+        "Sigma max": 0.215625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.215625,
+        "Sigma max": 0.21875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.21875,
+        "Sigma max": 0.22187500000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.22187500000000002,
+        "Sigma max": 0.225,
+        "Count": 1,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.225,
+        "Sigma max": 0.22812500000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.22812500000000002,
+        "Sigma max": 0.23125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.23125,
+        "Sigma max": 0.234375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.234375,
+        "Sigma max": 0.23750000000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.23750000000000002,
+        "Sigma max": 0.240625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.240625,
+        "Sigma max": 0.24375000000000002,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.24375000000000002,
+        "Sigma max": 0.246875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.246875,
+        "Sigma max": 0.25,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.25,
+        "Sigma max": 0.253125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.253125,
+        "Sigma max": 0.25625000000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.25625000000000003,
+        "Sigma max": 0.259375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.259375,
+        "Sigma max": 0.2625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.2625,
+        "Sigma max": 0.265625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.265625,
+        "Sigma max": 0.26875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.26875,
+        "Sigma max": 0.27187500000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.27187500000000003,
+        "Sigma max": 0.275,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.275,
+        "Sigma max": 0.278125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.278125,
+        "Sigma max": 0.28125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.28125,
+        "Sigma max": 0.284375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.284375,
+        "Sigma max": 0.28750000000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.28750000000000003,
+        "Sigma max": 0.290625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.290625,
+        "Sigma max": 0.29375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.29375,
+        "Sigma max": 0.296875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.296875,
+        "Sigma max": 0.30000000000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.30000000000000004,
+        "Sigma max": 0.30312500000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.30312500000000003,
+        "Sigma max": 0.30625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.30625,
+        "Sigma max": 0.309375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.309375,
+        "Sigma max": 0.3125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.3125,
+        "Sigma max": 0.31562500000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.31562500000000004,
+        "Sigma max": 0.31875000000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.31875000000000003,
+        "Sigma max": 0.321875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.321875,
+        "Sigma max": 0.325,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.325,
+        "Sigma max": 0.328125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.328125,
+        "Sigma max": 0.33125000000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.33125000000000004,
+        "Sigma max": 0.33437500000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.33437500000000003,
+        "Sigma max": 0.3375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.3375,
+        "Sigma max": 0.340625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.340625,
+        "Sigma max": 0.34375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.34375,
+        "Sigma max": 0.34687500000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.34687500000000004,
+        "Sigma max": 0.35000000000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.35000000000000003,
+        "Sigma max": 0.353125,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.353125,
+        "Sigma max": 0.35625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.35625,
+        "Sigma max": 0.359375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.359375,
+        "Sigma max": 0.36250000000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.36250000000000004,
+        "Sigma max": 0.36562500000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.36562500000000003,
+        "Sigma max": 0.36875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.36875,
+        "Sigma max": 0.371875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.371875,
+        "Sigma max": 0.375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.375,
+        "Sigma max": 0.37812500000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.37812500000000004,
+        "Sigma max": 0.38125000000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.38125000000000003,
+        "Sigma max": 0.384375,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.384375,
+        "Sigma max": 0.3875,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.3875,
+        "Sigma max": 0.390625,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.390625,
+        "Sigma max": 0.39375000000000004,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.39375000000000004,
+        "Sigma max": 0.39687500000000003,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    },
+    {
+        "Sigma min": 0.39687500000000003,
+        "Sigma max": 0.4,
+        "Count": 0,
+        "Dataset": "DenseHaze"
+    }
+]
