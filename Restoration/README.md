@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 For comparisons, we recommend comparing with the NAFNet model as it performs best. For models other than PromptIR, Swin and NAFNet, use their respective
 codebases for testing.
+
 ---
 
 ## Inference
