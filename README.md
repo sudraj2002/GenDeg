@@ -6,6 +6,9 @@
 ## GenDeg
 For instructions regarding training and inference of the GenDeg model refer to this [file](https://github.com/sudraj2002/GenDeg/blob/main/GenDeg/README.md).
 
+## Restoration models
+To use the restoration models trained on the GenDS dataset, refer to this [file]().
+
 
 ## GenDS Dataset
 To download the GenDS dataset please refer to the [dataset page](https://huggingface.co/datasets/Sudarshan2002/GenDS).
