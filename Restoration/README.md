@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 - Download pre-trained weights of the models from **[this link](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/sambasa2_jh_edu/IQBsK-SxncexQpxB1FDF6vuWAdtbfpEnAansay4QkvntHzY?e=IIS1jr)** and place them in `ckpts/`. 
 
-For comparisons, we recommend comparing with the NAFNet model as it performs best. For models other than PromptIR, Swin and NAFNet, use their respective
+For comparisons, we recommend comparing with the NAFNet model (`nafnet_fulldata_res.ckpt`) as it performs best. For models other than PromptIR, Swin and NAFNet, use their respective
 codebases for testing.
 
 ---
