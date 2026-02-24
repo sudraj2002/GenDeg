@@ -13,14 +13,6 @@ To use the restoration models trained on the GenDS dataset, refer to this [file]
 ## GenDS Dataset
 To download the GenDS dataset please refer to the [dataset page](https://huggingface.co/datasets/Sudarshan2002/GenDS).
 
-### TODO
-- [x] GenDS dataset
-- [x] GenDeg inference
-- [x] GenDeg training
-- [ ] Restoration inference
-- [ ] Restoration training
-- [ ] Pre-trained models
-
 ## Citation
 
 If you found our work useful, please consider citing:
