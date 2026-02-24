@@ -18,10 +18,11 @@ To download the GenDS dataset please refer to the [dataset page](https://hugging
 If you found our work useful, please consider citing:
 
 ```bibtex
-@article{rajagopalan2024gendeg,
-  title={GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration},
+@inproceedings{rajagopalan2025gendeg,
+  title={Gendeg: Diffusion-based degradation synthesis for generalizable all-in-one image restoration},
   author={Rajagopalan, Sudarshan and Nair, Nithin Gopalakrishnan and Paranjape, Jay N and Patel, Vishal M},
-  journal={arXiv preprint arXiv:2411.17687},
-  year={2024}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={28144--28154},
+  year={2025}
 }
 ```
